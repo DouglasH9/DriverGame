@@ -1,0 +1,6 @@
+UserSettings/
+Packages/
+Logs/
+.vscode/
+Driver.sln
+Assembly-CSharp.csproj
